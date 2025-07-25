@@ -5,4 +5,5 @@
 - **Organizer**: [Martin Šícho](https://telefony.vscht.cz/en/Person/1106)
 
 # Important Files
-- [Travel Logistics](TODO)
+- [Travel Logistics](./logistics/travel_logistics.pdf
+)
