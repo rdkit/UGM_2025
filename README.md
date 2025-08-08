@@ -8,6 +8,6 @@
 - [Travel Logistics](./logistics/travel_logistics.pdf
 )
 - Scientific Program
- - [Talks](https://web.vscht.cz/~sichom/ugm_2025.html)
- - [Posters](https://web.vscht.cz/~sichom/ugm_2025_posters.html) 
- - [Workshops/Hackathon](https://web.vscht.cz/~sichom/ugm_2025_workshops.html)
+  - [Talks](https://web.vscht.cz/~sichom/ugm_2025.html)
+  - [Posters](https://web.vscht.cz/~sichom/ugm_2025_posters.html) 
+  - [Workshops/Hackathon](https://web.vscht.cz/~sichom/ugm_2025_workshops.html)
