@@ -1,0 +1,6 @@
+protein: ~/crem_tutorial/3ral/3ral.pdbqt
+protein_setup: ~/crem_tutorial/3ral/grid.txt
+exhaustiveness: 4
+seed: -1
+n_poses: 1
+ncpu: 2
