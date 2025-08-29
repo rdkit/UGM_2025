@@ -1,0 +1,11 @@
+script_file: ~/opt/gnina/gnina
+protein: ~/crem_tutorial/3ral/3ral.pdbqt
+protein_setup: ~/crem_tutorial/3ral/grid.txt
+exhaustiveness: 2
+seed: 0
+scoring: default
+cnn_scoring: rescore
+cnn: dense_ensemble
+n_poses: 10
+addH: 0
+ncpu: 1

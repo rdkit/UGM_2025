@@ -1,0 +1,7 @@
+script_file: 'C:\Program Files (x86)\The Scripps Research Institute\Vina\vina.exe'
+protein: 'C:\Users\XXX\crem_rdkit_ugm\3ral\3ral.pdbqt'
+protein_setup: 'C:\Users\XXX\crem_tutorial\3ral\grid.txt'
+exhaustiveness: 4
+seed: -1
+n_poses: 1
+ncpu: 2
