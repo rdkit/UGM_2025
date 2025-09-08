@@ -21,3 +21,9 @@ Here are the links to the zoom streams:
 - [Thursday (Sept 11) Afternoon Session](https://ethz.zoom.us/j/66926399458)
 
 We will, as always, be using discord for Q&A and general discussion. You can join the UGM discord server here: [https://discord.gg/5cAr6x66Ug](https://discord.gg/5cAr6x66Ug).
+
+# Our sponsors
+
+Thanks to our sponsors for supporting the UGM. Their generosity allows us to keep holding the UGM in its current form.
+
+![sponsors logos](sponsors.png)
