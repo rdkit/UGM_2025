@@ -6,6 +6,7 @@
 
 # Important Files
 - [Travel Logistics](./logistics/travel_logistics.pdf)
+- [Venue Logistics](./logistics/venue_logistics.pdf)
 - Scientific Program
   - [Talks](https://web.vscht.cz/~sichom/ugm_2025.html)
   - [Posters](https://web.vscht.cz/~sichom/ugm_2025_posters.html) 
