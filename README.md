@@ -5,14 +5,26 @@
 - **Organizer**: [Martin Šícho](https://telefony.vscht.cz/en/Person/1106)
 
 # Important Files
-- [Travel Logistics](./logistics/travel_logistics.pdf
-)
+- [Travel Logistics](./logistics/travel_logistics.pdf)
+- [Venue Logistics](./logistics/venue_logistics.pdf)
 - Scientific Program
   - [Talks](https://web.vscht.cz/~sichom/ugm_2025.html)
   - [Posters](https://web.vscht.cz/~sichom/ugm_2025_posters.html) 
   - [Workshops/Hackathon](https://web.vscht.cz/~sichom/ugm_2025_workshops.html)
 
 # Virtual attendance
-As in years past, we will live stream the UGM over zoom. Unlike in previous years, virtual attendance does not require registration.
+As in years past, we will live stream the UGM itself (not the hackathon) over zoom. Unlike in previous years, virtual attendance does not require registration.
 
-We will share the links to join the live streams here (and on the usual social media outlets) on the Monday or Tuesday before the UGM.
+Here are the links to the zoom streams:
+- [Wednesday (Sept 10) Morning Session](https://ethz.zoom.us/j/62598712168)
+- [Wednesday (Sept 10) Afternoon Session](https://ethz.zoom.us/j/62967958683)
+- [Thursday (Sept 11) Morning Session](https://ethz.zoom.us/j/61538306941)
+- [Thursday (Sept 11) Afternoon Session](https://ethz.zoom.us/j/66926399458)
+
+We will, as always, be using discord for Q&A and general discussion. You can join the UGM discord server here: [https://discord.gg/5cAr6x66Ug](https://discord.gg/5cAr6x66Ug).
+
+# Our sponsors
+
+Thanks to our sponsors for supporting the UGM. Their generosity allows us to keep holding the UGM in its current form.
+
+![sponsors logos](sponsors.png)
